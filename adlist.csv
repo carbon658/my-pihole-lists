@@ -1,0 +1,3 @@
+id,address,enabled,date_added,date_modified,comment,date_updated
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1609718532,1609718532,"Migrated from /etc/pihole/adlists.list",1609718578
+2,https://mirror1.malwaredomains.com/files/justdomains,1,1609718532,1609718532,"Migrated from /etc/pihole/adlists.list",""
